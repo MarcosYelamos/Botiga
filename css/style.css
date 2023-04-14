@@ -105,3 +105,12 @@ body {
     text-decoration: none;
     color: orange;
 }
+
+
+@media screen and (max-width:800px) {
+    .column4 {
+        width: 33,33%;
+    }
+
+
+}
