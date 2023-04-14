@@ -130,7 +130,7 @@ body {
     justify-content: center;
 }
 .espacio8 {
-    padding-top: 7%;
+    padding-top: 15%;
     justify-content: center;
 }
 .espacio9 {
@@ -158,6 +158,41 @@ body {
         width: 100%;
         font-size: smaller;
     }
-
-
+    .espacio {
+        padding-top: 1%;
+    }
+    .espacio2 {
+        padding-top: 1%;
+    }
+    .espacio3 {
+        padding-top: 1%;
+    }
+    .espacio4 {
+        padding-top: 1%;
+    }
+    .espacio5 {
+        padding-top: 1%;
+    }
+    .espacio6 {
+        padding-top: 1%;
+    }
+    .espacio7 {
+        padding-top: 1%;
+    }
+    .espacio8 {
+        padding-top: 1%;
+    }
+    .espacio9 {
+        padding-top: 1%;
+    }
+    .espacio10 {
+        padding-top: 1%;
+    }
+    .espacio11 {
+        padding-top: 1%;
+    }
+    .espacio12 {
+        padding-top: 1%;
+    }
+    
 }
