@@ -74,7 +74,7 @@ body {
     color: crimson;
 }
 
-.canales {
+.medio {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -86,19 +86,9 @@ body {
     
 }
 
-.adopciones {
-    padding: 3%;
-    text-align: justify;
-}
-
 .imagen2 {
     padding: 2%;
     width: 100%;
-}
-
-.espacio {
-    padding-top: 7%;
-    justify-content: center;
 }
 
 .link {
@@ -106,6 +96,59 @@ body {
     color: orange;
 }
 
+.canales {
+    padding: 3%;
+    text-align: justify;
+}
+
+.espacio {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio2 {
+    padding-top: 10%;
+    justify-content: center;
+}
+.espacio3 {
+    padding-top: 10%;
+    justify-content: center;
+}
+.espacio4 {
+    padding-top: 9%;
+    justify-content: center;
+}
+.espacio5 {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio6 {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio7 {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio8 {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio9 {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio10 {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio11 {
+    padding-top: 7%;
+    justify-content: center;
+}
+.espacio12 {
+    padding-top: 7%;
+    justify-content: center;
+}
 
 @media screen and (max-width:800px) {
     .column4 {
