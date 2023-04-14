@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 * {
     box-sizing: border-box;
 }
 
 body {
     margin: 0%;
-    font-family: Arial, Helvetica, sans-serif;
-    
+    font-family: 'Poppins', sans-serif;
 }
 
 .row:after {
@@ -61,4 +62,15 @@ body {
 .idioma2{
     padding: 1%;
     margin: 0;
+    text-decoration: none;
+}
+
+.catalan {
+    text-decoration: none;
+    color: crimson;
+}
+
+.castellano {
+    text-decoration: none;
+    color: crimson;
 }
