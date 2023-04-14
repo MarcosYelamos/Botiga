@@ -19,7 +19,7 @@ body {
 
 .cabecera {
     display: flex;
-    background-color: gray;
+    background-color: rgba(17, 136, 67, 0.473);
     background-size:cover;
     height:100vh;
     width: 100%; 
@@ -51,18 +51,17 @@ body {
 .info {
     text-align: center;
     margin: 0;
-
-    
 }
 
 .idioma {
-    background-color: rgba(0, 0, 0, 0.473);
+    background-color: rgba(17, 136, 67, 0.473);
+    text-decoration: none;
 }
 
 .idioma2{
     padding: 1%;
     margin: 0;
-    text-decoration: none;
+    
 }
 
 .catalan {
@@ -73,4 +72,35 @@ body {
 .castellano {
     text-decoration: none;
     color: crimson;
+}
+
+.canales {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.column2 {
+    width: 50%;
+    float: left;
+    
+}
+
+.adopciones {
+    padding: 3%;
+    text-align: justify;
+}
+
+.imagen2 {
+    padding: 2%;
+    width: 100%;
+}
+
+.espacio {
+    padding-top: 7%;
+    justify-content: center;
+}
+
+.link {
+    
 }
